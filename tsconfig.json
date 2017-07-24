@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "lib": ["ES2017", "DOM"],
+        "module": "commonjs",
+        "target": "es6",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "rootDir": ".",
+        "jsx": "react",
+        "sourceMap": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
